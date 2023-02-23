@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="ERROR_UNEXPECTED">Unexpected error. Please try again later…</string>
+    <string name="ERROR_LOAD_TASK">Failed to load task.</string>
+    <string name="ERROR_INTERNET_CONNECTION">Internet connection is mandatory.</string>
+
+    <string name="task_updated">Task updated!</string>
+    <string name="task_created">Task created!</string>
+    <string name="task_removed">Task removed!</string>
+
+    <string name="email">E-mail</string>
+    <string name="senha">Password</string>
+    <string name="login">Login</string>
+    <string name="nome">Name</string>
+    <string name="cadastrar">Register</string>
+    <string name="descricao">Description</string>
+    <string name="prioridade">Priority</string>
+    <string name="data_limite">Limit date</string>
+    <string name="update_task">Update date</string>
+    <string name="clique_para_selecionar_a_data">Select limit date</string>
+    <string name="completa">Completed</string>
+    <string name="adicionar_tarefa">Add task</string>
+    <string name="sim">Yes</string>
+    <string name="cancelar">Cancel</string>
+    <string name="remocao_de_tarefa">Remove task</string>
+    <string name="remover_tarefa">Are you sure you want to remove task?</string>
+    <string name="nao_tem_uma_conta">Dont have an account?</string>
+    <string name="cadastre_se">Register</string>
+    <string name="entrar">Login</string>
+    <string name="sair">Logout</string>
+    <string name="expiradas">Expired</string>
+    <string name="todas_tarefas">Tasks</string>
+    <string name="proximos_7_dias">Next 7 days</string>
+
+</resources>
